@@ -1,8 +1,8 @@
-## Monsters Rolodex
+# Monsters Rolodex
 
-Monsters Rolodex is a single page React application that was completed as part of a React focused Udemy course (Complete Reqct Developer in 2020).
+Monsters Rolodex is a single page React application that was completed as part of a React Udemy course (Complete React Developer in 2020).
 
-# Purpose
+### Purpose
 
 The app displays a rolodex of Monsters with a search bar. A user can type in the search bar to find a specific monster by name. As the user is typing in the search bar, all monsters that do not contain the string being typed are filtered out of the view. 
 
